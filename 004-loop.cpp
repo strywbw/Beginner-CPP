@@ -7,5 +7,9 @@ int main(){
     cout << i << endl;
   }
   
+  while(a>0){
+    cout << a<<endl;
+    a=a-1;
+  }
   return 0;
 }
