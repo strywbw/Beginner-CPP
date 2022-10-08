@@ -4,6 +4,7 @@ using namespace std;
 int main(){
   
   int a = 2;
+  float b;
   string b;
   cout << a << endl;
   cout << "Input number"; cin >> a;
